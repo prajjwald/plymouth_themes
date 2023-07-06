@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=datastream
+Description=datastream
+Comment=datastream
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/datastream
+ScriptFile=/usr/share/plymouth/themes/datastream/datastream.script
